@@ -274,7 +274,7 @@ body{background-color:darkgreen }
 		width: 45%;
 	}
 	
-	.div3 {
+	.div3, .div5 {
 		height: auto;
 	}
 	
@@ -283,7 +283,7 @@ body{background-color:darkgreen }
     border: none;
 	}
 	
-	
+	.footer img{width: 100%;}
 	.div2-sub2 img {
 		float: none;
 		width: 100%;
